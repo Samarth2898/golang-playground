@@ -1,4 +1,4 @@
-package goplayground
+package golangplayground
 
 import "fmt"
 
