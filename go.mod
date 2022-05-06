@@ -1,3 +1,3 @@
-module github.com/Samarth2898/go-playground/golang-docker-test-1
+module github.com/Samarth2898/go-playground
 
 go 1.17
