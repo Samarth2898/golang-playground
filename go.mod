@@ -1,3 +1,3 @@
-module github.com/Samarth2898/golang-playground
+module golangplayground
 
 go 1.17
